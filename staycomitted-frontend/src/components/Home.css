@@ -1,0 +1,39 @@
+/* Home Page Styles */
+.home-container {
+    text-align: center;
+    padding: 3em;
+  }
+  
+  .home-header {
+    padding: 3em;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; /* Make text white for better contrast */
+    text-shadow: 1px 1px 2px #000;
+  }
+  
+  .home-title {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+  }
+  
+  .home-description {
+    font-size: 1.5em;
+    margin-bottom: 2em;
+  }
+  
+  .home-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.75em 1.5em;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.2em;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .home-button:hover {
+    background-color: #0056b3;
+  }
+  
